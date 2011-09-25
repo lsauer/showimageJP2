@@ -18,6 +18,13 @@ BMP, PNM (PPM/PGM/PBM), XPM, LBM, PCX, GIF, JPEG, PNG, TGA, and TIFF formats.
 
  * copyrights of the included pictures: Ericsson
 
+### Installing as an image viewer
+ * In windows, right click on the image file to be opened and select 'open with'
+ * In the file association windows click Browse at the bottom right
+ * Select the showimage application
+ * Now for instance each time you double click/enter an associated image file type showimage will
+   render it (e.g. *.jp2, *.raw...)
+
 ### Notes
  * Implementing motion picture support is quite straightforward. To do so add the corresponding container-format decoder library
   and update the SDL canvas according to the movie's native framerate.
