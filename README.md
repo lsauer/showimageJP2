@@ -1,6 +1,7 @@
 ### JPEG2000 SDL-IMAGE Viewer 
-author: lo sauer, 2001
+**author**: lo sauer, 2001 - lsauer.com
 based on SDL_image code written by Sam Lantinga, and the Jasper Jpeg2000 library.
+<img src="https://lh6.googleusercontent.com/-X8gF5OiNkCQ/UpBlxKMIukI/AAAAAAAACzQ/0z0LD5rrbSg/w100-h50-no/product_sm_sdl_logo.gif">  
 
 Description: the program displays images which are rendered on an SDL surface.
 The library supports, JK2, JP2, RAW, EPS, MIF and
@@ -18,6 +19,17 @@ BMP, PNM (PPM/PGM/PBM), XPM, LBM, PCX, GIF, JPEG, PNG, TGA, and TIFF formats.
 
  * copyrights of the included pictures: Ericsson
 
+### Examples
+
+<img src="https://lh5.googleusercontent.com/-BiySKZnaEwI/UpBlo07cyPI/AAAAAAAACy8/SU_Sczu6XSY/w668-h329-no/sdl_jpeg2000_jp2_lsauer-lorenz-lo-sauer-techshot_3.jpg">
+
+##### Encoding  
+<table><tr><td><b>before</b></td><td><b>after</b></td></tr>
+<tr><tr><td>
+<img src="https://lh5.googleusercontent.com/-ufDbmhwNn70/UpBlozW2Y6I/AAAAAAAACzE/Y4wyz8BtfG4/w350-no/sdl_jpeg2000_jp2_lsauer-lorenz-lo-sauer-techshot_1.jpg">
+</td><td>
+<img src="https://lh5.googleusercontent.com/-5rzt-tF4_Go/UpBlo5ohypI/AAAAAAAACzI/yCGEQ45tZRA/w350-no/sdl_jpeg2000_jp2_lsauer-lorenz-lo-sauer-techshot_2.jpg">
+</td></tr></table>
 ### Installing as an image viewer
  * In windows, right click on the image file to be opened and select 'open with'
  * In the file association windows click Browse at the bottom right
